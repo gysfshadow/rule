@@ -3,6 +3,9 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.net
+DOMAIN-SUFFIX,browserleaks.org
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
