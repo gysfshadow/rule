@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,mtalk.google.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
