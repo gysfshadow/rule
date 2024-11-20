@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,googletagmanager.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
