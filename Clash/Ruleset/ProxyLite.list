@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,streetviewpixels-pa.googleapis.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
